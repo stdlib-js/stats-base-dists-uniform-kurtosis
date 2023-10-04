@@ -67,6 +67,11 @@ The [excess kurtosis][kurtosis] for a [uniform][uniform-distribution] random var
 ## Usage
 
 ```javascript
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-uniform-kurtosis@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-uniform-kurtosis/tags). For example,
+
+```javascript
 import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-uniform-kurtosis@v0.1.1-esm/index.mjs';
 ```
 
@@ -132,7 +137,7 @@ y = kurtosis( 3.0, 3.0 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-uniform-kurtosis@v0.1.1-esm/index.mjs';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-uniform-kurtosis@esm/index.mjs';
 
 var a;
 var b;
