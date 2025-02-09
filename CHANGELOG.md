@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`b9a2014`](https://github.com/stdlib-js/stdlib/commit/b9a2014b1181d30f86aa489ba90ad1f892ade8e8) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`0806d8d`](https://github.com/stdlib-js/stdlib/commit/0806d8dd46ea52f7e95c12b1add6b3e01745711b) - **feat:** add C implementation for `stats/base/dists/uniform/kurtosis` [(#4132)](https://github.com/stdlib-js/stdlib/pull/4132) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 
 </details>
