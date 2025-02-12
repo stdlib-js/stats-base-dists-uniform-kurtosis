@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-09)
+## Unreleased (2025-02-12)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3827](https://github.com/stdlib-js/stdlib/issues/3827)
+[#3827](https://github.com/stdlib-js/stdlib/issues/3827), [#4991](https://github.com/stdlib-js/stdlib/issues/4991)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`273d9f1`](https://github.com/stdlib-js/stdlib/commit/273d9f168ed5293a563e6748219f79a033e7ca8a) - **bench:** refactor random number generation in benchmarks for `stats/base/dists/uniform` [(#5176)](https://github.com/stdlib-js/stdlib/pull/5176) _(by Gaurav, Philipp Burckhardt, stdlib-bot)_
 -   [`b9a2014`](https://github.com/stdlib-js/stdlib/commit/b9a2014b1181d30f86aa489ba90ad1f892ade8e8) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
 -   [`0806d8d`](https://github.com/stdlib-js/stdlib/commit/0806d8dd46ea52f7e95c12b1add6b3e01745711b) - **feat:** add C implementation for `stats/base/dists/uniform/kurtosis` [(#4132)](https://github.com/stdlib-js/stdlib/pull/4132) _(by Prashant Kumar Yadav, Philipp Burckhardt, stdlib-bot)_
 
@@ -47,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Gaurav
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
 
